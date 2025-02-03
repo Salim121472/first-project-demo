@@ -1,2 +1,2 @@
 # first-project-demo
-this is a demo for learning github work
+this is a demo for learning github work.
